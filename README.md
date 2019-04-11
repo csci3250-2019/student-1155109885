@@ -25,4 +25,4 @@ HW:
 | 🐰 | small |
 
 Screenshot:
-screenshot.png
+![screenshot](screenshot.png)
